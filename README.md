@@ -1,3 +1,4 @@
+<img width="1280" height="716" alt="WhatsApp Image 2026-08-31 at 10 38 41" src="https://github.com/user-attachments/assets/e50f19a4-edcb-4eea-975a-e4ad189a9abd" />
 # 🧠 DistilBERT Sentiment Analysis
 
 An end-to-end NLP application that uses a **fine-tuned DistilBERT Transformer model** to classify movie reviews as **Positive** or **Negative**.
@@ -20,7 +21,10 @@ The application accepts a movie review as input and uses the fine-tuned DistilBE
 The Streamlit interface includes an interactive visualization of the Transformer inference process.
 
 ---
-<img width="1470" height="956" alt="Screenshot 2026-08-31 at 10 28 32 AM" src="https://github.com/user-attachments/assets/ca5216bf-39d2-47eb-9b51-211e71b4ba3d" />
+<img width="1280" height="714" alt="WhatsApp Image 2026-08-31 at 10 37 58" src="https://github.com/user-attachments/assets/ebdccf3a-3ca0-415e-863c-8828112f7ebc" />
+<img width="1280" height="707" alt="WhatsApp Image 2026-08-31 at 10 38 21" src="https://github.com/user-attachments/assets/ee2d8948-9ed5-45f3-9f97-7a9556d8ca8c" />
+<img width="1280" height="716" alt="WhatsApp Image 2026-08-31 at 10 38 41" src="https://github.com/user-attachments/assets/41827d1c-ad2b-46ce-b1e1-bd1c6d51a3d7" />
+
 
 
 ## ✨ Features
