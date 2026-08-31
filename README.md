@@ -20,6 +20,7 @@ The application accepts a movie review as input and uses the fine-tuned DistilBE
 The Streamlit interface includes an interactive visualization of the Transformer inference process.
 
 ---
+![Uploading Screenshot 2026-08-31 at 10.28.32 AM.png…]()
 
 ## ✨ Features
 
