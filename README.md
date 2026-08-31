@@ -7,6 +7,7 @@ The trained model is hosted on **Hugging Face**, while the application code is m
 
 ---
 
+
 ## 🚀 Project Overview
 
 This project demonstrates how a pretrained Transformer model can be fine-tuned for a real-world Natural Language Processing classification task.
@@ -283,6 +284,11 @@ Replace the above with your actual Hugging Face model repository.
 * Add multilingual sentiment analysis
 
 ---
+## 🚀 Live Demo
+
+👉 **[Try the Sentiment AI Application](https://uceda46fpiws64kxqtq5sq.streamlit.app/)**
+
+Enter any movie review and get an AI-powered sentiment prediction using a fine-tuned DistilBERT Transformer.
 
 ## 👨‍💻 Author
 
